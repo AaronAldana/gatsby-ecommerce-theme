@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Sydney Ecommerce Theme`,
-    siteUrl: `https://jamm.matter.design`,
+    title: `Hudson & Dunn`,
+    siteUrl: `https://www.hudsonanddunn.com`,
   },
   plugins: [
     {
