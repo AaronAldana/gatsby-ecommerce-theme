@@ -15,8 +15,8 @@ const OrderPage = (props) => {
 
   const sampleOrder1 = {
     id: '2',
-    orderPlaced: 'Oct 12, 2021',
-    lastUpdate: 'Oct 12, 2021',
+    orderPlaced: 'Oct 12, 2022',
+    lastUpdate: 'Oct 12, 2022',
     status: 'pending',
     items: [
       {
@@ -52,8 +52,8 @@ const OrderPage = (props) => {
 
   const sampleOrder2 = {
     id: '1',
-    orderPlaced: 'Oct 11, 2021',
-    lastUpdate: 'Oct 11, 2021',
+    orderPlaced: 'Oct 11, 2022',
+    lastUpdate: 'Oct 11, 2022',
     status: 'pending',
     items: [
       {
